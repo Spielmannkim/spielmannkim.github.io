@@ -1,0 +1,18 @@
+#Head {
+    position: absolute;
+    margin-top: 200px;
+    left: 20%;
+    top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+  #Head header img {
+    height: 65px;
+    width: 50px;
+  }
+
+  #comment img {
+    height: 30px;
+    width: 30px;
+  }
