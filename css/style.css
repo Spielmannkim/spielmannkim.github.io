@@ -1,3 +1,10 @@
+@media only screen and (min-width : 768px) {
+	.innerWrapper{
+		margin-left: 20%;
+		margin-right: 20%;
+	}
+}
+
 #concerts {
 	background-color:#dfdfdf;
 }
